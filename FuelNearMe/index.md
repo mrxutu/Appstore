@@ -4,7 +4,7 @@ Fuel Near Me shows petrol stations near you, or near a town or postcode you sear
 
 ## Contact
 
-Questions, problems or suggestions: **REPLACE-WITH-YOUR-SUPPORT-EMAIL**
+Questions, problems or suggestions: **paul.cozens.apps@icloud.com**
 
 Please include your iPhone model, your iOS version and a short description of what happened. I aim to reply within a few days.
 

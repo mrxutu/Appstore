@@ -30,4 +30,4 @@ If this policy changes, the updated version will be published on this page with 
 
 ## Contact
 
-Questions about privacy: **REPLACE-WITH-YOUR-SUPPORT-EMAIL**
+Questions about privacy: **paul.cozens.apps@icloud.com**
