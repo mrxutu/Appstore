@@ -11,7 +11,7 @@ Please include your iPhone model, your iOS version and a short description of wh
 ## Frequently asked questions
 
 **Where do the prices come from?**
-From the UK Government Fuel Finder scheme, where retailers report their pump prices. Retailers must report changes within 30 minutes, and the app checks for new prices every 15 minutes.
+From the UK Government Fuel Finder scheme, where retailers report their pump prices. Retailers must report changes within 30 minutes, and prices in the app are updated several times a day.
 
 **Is the price shown always what I'll pay?**
 Not necessarily. Prices are reported by the retailers and can be out of date or wrong. Always check the price at the pump.
